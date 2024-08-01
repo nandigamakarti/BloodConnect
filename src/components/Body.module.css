@@ -1,0 +1,41 @@
+.li{
+    margin: 5px;
+    padding: 2px 7px 2px 7px;
+    /* border: 2px solid black; */
+    border-radius: 30px; 
+    color: rgb(0, 0, 0);
+    font-size: 1.3em;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+li:hover{    
+    font-weight: bolder;
+    font-size: 1.5em;
+    background-color: rgb(255, 183, 74);
+    cursor: pointer;
+
+}
+
+
+.ul{
+    /* border: 2px solid black; */
+    border-radius: 50px; 
+    display: flex;
+    padding: 5px;
+    justify-content: right;
+    
+}
+
+.navbar{
+    /* border:2px solid black; */
+   
+}
+
+
+.body{
+    padding: 2px;
+    /* border: 10px solid blue; */
+    background-color: rgb(255, 255, 255);
+    height :100%;
+}
